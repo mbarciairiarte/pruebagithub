@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.titulo-principal{
+    padding: 75px 0px !important;
+}
+.card {
+    width: 18rem;
+}
